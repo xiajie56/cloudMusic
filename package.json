@@ -1,8 +1,8 @@
 {
-  "name": "mpvuetest2",
+  "name": "cloudmusic",
   "version": "1.0.0",
-  "description": "A Mpvue project",
-  "author": "x",
+  "description": "使用 mpvue(vue、pug、styuls、vuex、fly.js) ， NeteaseCloudMusicApi(网易云音乐)开发的小程序",
+  "author": "xiajie56",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
