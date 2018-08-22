@@ -1,9 +1,9 @@
 # mpvue
----
+
 > 使用 mpvue(vue、pug、styuls、vuex、fly.js) ， NeteaseCloudMusicApi(网易云音乐)开发的小程序
 
 ### 准备程序
-----
+
 网易云音乐API v2.16.0:<https://github.com/Binaryify/NeteaseCloudMusicApi>
 
 启动后将本程序clone到本地
